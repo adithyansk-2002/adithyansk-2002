@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that needs my peabrain😁
 - 📫 You can reach out to me via Instagram (_.adithyan.sk._)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I prefer sleeping instad of coding 🫡👍
+- ⚡ Fun fact: I prefer sleeping instead of coding 🫡👍
 
 <!---
 adithyansk-2002/adithyansk-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
