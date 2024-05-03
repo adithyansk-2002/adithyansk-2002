@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding?
 - 🌱 I’m currently learning Python, C/C++ nd Java
 - 💞️ I’m looking to collaborate on anything that needs my peabrain😁
-- 📫 You can reach out to me via Instagram ([\@_.adithyan.sk._](https://www.instagram.com/_.adithyan.sk._/))
+- 📫 You can reach out to me via Instagram ([\@\_.adithyan.sk._\_](https://www.instagram.com/_.adithyan.sk._/))
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have created Minecraft mods in the past 🫡👍
 
