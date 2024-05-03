@@ -8,8 +8,12 @@
   <a href="https://www.linkedin.com/in/adithyan-suresh-kumar-319723287/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/_.adithyan.sk._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="adithyansk2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -28,7 +32,7 @@
 
 ###
 
-<p align="left">Hi, I'm Adithyan Suresh Kumar <br><br>- 👀 I’m interested in ... coding?<br>- 🌱 I’m currently learning Python, C/C++ nd Java<br>- ⚡ Fun fact: I have created Minecraft mods in the past</p>
+<p align="left">Hi, I'm Adithyan Suresh Kumar <br><br>- 👀 I’m interested in coding and photography<br>- 🌱 I’m currently learning Python, C/C++ nd Java<br>- ⚡ Fun fact: I have created Minecraft mods in the past</p>
 
 ###
 
@@ -49,7 +53,3 @@
 </div>
 
 ###
-<!---
-adithyansk-2002/adithyansk-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
