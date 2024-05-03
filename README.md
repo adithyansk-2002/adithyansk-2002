@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi, I'm Adithyan Suresh Kumar <br><br>- 👀 I’m interested in coding and photography<br>- 🌱 I’m currently learning Python, C/C++ nd Java<br>- ⚡ Fun fact: I have created Minecraft mods in the past</p>
+<p align="left">I'm Adithyan Suresh Kumar <br><br>- 👀 I’m interested in coding and photography<br>- 🌱 I’m currently learning Python, C/C++ nd Java<br>- ⚡ Fun fact: I have created Minecraft mods in the past</p>
 
 ###
 
