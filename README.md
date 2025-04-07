@@ -91,6 +91,37 @@ This project is licensed under the MIT License.
 
   ###
 
+  <h3 align="center">📊 GitHub Analytics</h3>
+
+  <div align="center">
+    <h4>Overall Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=adithyansk-2002&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyansk-2002&theme=radical" alt="GitHub Streak"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <h4>Language Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyansk-2002&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <h4>Profile Trophy</h4>
+    <img src="https://github-profile-trophy.vercel.app/?username=adithyansk-2002&theme=radical&row=2&column=4" alt="Profile Trophy"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <h4>🎯 GitHub Profile Summary</h4>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyansk-2002&theme=radical" alt="Profile Summary"/>
+  </div>
+
+  ###
+
   <h3 align="center">🎮 My Games</h3>
 
   <div align="center">
@@ -124,37 +155,6 @@ This project is licensed under the MIT License.
         <li>Beautiful Space Background</li>
       </ul>
     </details>
-  </div>
-
-  ###
-
-  <h3 align="center">📊 GitHub Analytics</h3>
-
-  <div align="center">
-    <h4>Overall Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api?username=adithyansk-2002&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyansk-2002&theme=radical" alt="GitHub Streak"/>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <h4>Language Stats</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyansk-2002&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <h4>Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=adithyansk-2002&theme=radical&row=2&column=4" alt="Profile Trophy"/>
-  </div>
-
-  <br>
-
-  <div align="center">
-    <h4>🎯 GitHub Profile Summary</h4>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyansk-2002&theme=radical" alt="Profile Summary"/>
   </div>
 
   ## 🎮 Play My Game
