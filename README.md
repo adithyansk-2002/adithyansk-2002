@@ -50,71 +50,61 @@
 <h3 align="center">🎮 Let's Play a Game!</h3>
 
 <div align="center">
-  <p>Try to guess the number between 1 and 100!</p>
+  <p>Can you guess my favorite number between 1 and 10?</p>
   
-  <div id="game-container" style="margin: 20px; padding: 20px; border-radius: 10px; background-color: #f0f0f0;">
-    <input type="number" id="guess-input" min="1" max="100" placeholder="Enter your guess" style="padding: 8px; border-radius: 5px; border: 1px solid #ccc;">
-    <button onclick="checkGuess()" style="padding: 8px 15px; background-color: #0077B5; color: white; border: none; border-radius: 5px; cursor: pointer;">Guess!</button>
-    <p id="result" style="margin-top: 10px;"></p>
-    <p id="attempts" style="margin-top: 10px;"></p>
-  </div>
+  <table align="center">
+    <tr>
+      <td><a href="#1">1️⃣</a></td>
+      <td><a href="#2">2️⃣</a></td>
+      <td><a href="#3">3️⃣</a></td>
+      <td><a href="#4">4️⃣</a></td>
+      <td><a href="#5">5️⃣</a></td>
+    </tr>
+    <tr>
+      <td><a href="#6">6️⃣</a></td>
+      <td><a href="#7">7️⃣</a></td>
+      <td><a href="#8">8️⃣</a></td>
+      <td><a href="#9">9️⃣</a></td>
+      <td><a href="#10">🔟</a></td>
+    </tr>
+  </table>
+
+  <p>Click on a number to guess!</p>
+  
+  <details>
+    <summary>🎯 Hint</summary>
+    <p>It's a prime number!</p>
+  </details>
+  
+  <details>
+    <summary>🎉 Answer</summary>
+    <p>My favorite number is 7! 🍀</p>
+  </details>
 </div>
 
-<script>
-  let targetNumber = Math.floor(Math.random() * 100) + 1;
-  let attempts = 0;
-  const maxAttempts = 10;
-
-  function checkGuess() {
-    const guessInput = document.getElementById('guess-input');
-    const result = document.getElementById('result');
-    const attemptsDisplay = document.getElementById('attempts');
-    const guess = parseInt(guessInput.value);
-
-    if (isNaN(guess) || guess < 1 || guess > 100) {
-      result.textContent = 'Please enter a valid number between 1 and 100!';
-      return;
-    }
-
-    attempts++;
-    attemptsDisplay.textContent = `Attempts: ${attempts}/${maxAttempts}`;
-
-    if (guess === targetNumber) {
-      result.textContent = `🎉 Congratulations! You guessed the number ${targetNumber} in ${attempts} attempts!`;
-      result.style.color = 'green';
-      disableGame();
-    } else if (attempts >= maxAttempts) {
-      result.textContent = `Game Over! The number was ${targetNumber}.`;
-      result.style.color = 'red';
-      disableGame();
-    } else {
-      result.textContent = guess > targetNumber ? 'Too high! Try a lower number.' : 'Too low! Try a higher number.';
-      result.style.color = 'blue';
-    }
-
-    guessInput.value = '';
-  }
-
-  function disableGame() {
-    document.getElementById('guess-input').disabled = true;
-    document.querySelector('button').disabled = true;
-  }
-</script>
-
 <style>
-  #game-container {
-    max-width: 400px;
-    margin: 0 auto;
-    text-align: center;
+  table {
+    border-spacing: 10px;
   }
-  
-  #guess-input {
-    width: 150px;
-    margin-right: 10px;
+  td {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    transition: transform 0.2s;
   }
-  
-  button:hover {
-    background-color: #005f8f;
+  td:hover {
+    transform: scale(1.1);
+    background-color: #e0e0e0;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  details {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
   }
 </style>
 
