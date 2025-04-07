@@ -47,9 +47,10 @@
 
 ###
 
-<h3 align="center">🎮 Let's Play a Game!</h3>
+<h3 align="center">🎮 Let's Play Some Games!</h3>
 
 <div align="center">
+  <h4>Game 1: Guess My Favorite Number</h4>
   <p>Can you guess my favorite number between 1 and 10?</p>
   
   <table align="center">
@@ -80,6 +81,42 @@
     <summary>🎉 Answer</summary>
     <p>My favorite number is 7! 🍀</p>
   </details>
+
+  <h4>Game 2: Rock, Paper, Scissors</h4>
+  <p>Choose your move to play against me!</p>
+  
+  <table align="center">
+    <tr>
+      <td><a href="#rock">🪨</a></td>
+      <td><a href="#paper">📄</a></td>
+      <td><a href="#scissors">✂️</a></td>
+    </tr>
+    <tr>
+      <td>Rock</td>
+      <td>Paper</td>
+      <td>Scissors</td>
+    </tr>
+  </table>
+
+  <details>
+    <summary>🎮 My Move</summary>
+    <p>I always choose Rock! 🪨</p>
+  </details>
+
+  <details>
+    <summary>📖 How to Play</summary>
+    <p>Rock beats Scissors, Scissors beats Paper, Paper beats Rock!</p>
+  </details>
+
+  <details>
+    <summary>🏆 Results</summary>
+    <p>If you choose:</p>
+    <ul>
+      <li>Rock: It's a tie! 🤝</li>
+      <li>Paper: You win! 🎉</li>
+      <li>Scissors: I win! 😎</li>
+    </ul>
+  </details>
 </div>
 
 <style>
@@ -91,6 +128,7 @@
     background-color: #f0f0f0;
     border-radius: 5px;
     transition: transform 0.2s;
+    text-align: center;
   }
   td:hover {
     transform: scale(1.1);
@@ -105,6 +143,14 @@
     padding: 10px;
     background-color: #f8f8f8;
     border-radius: 5px;
+  }
+  h4 {
+    margin-top: 30px;
+    color: #2d333b;
+  }
+  ul {
+    text-align: left;
+    display: inline-block;
   }
 </style>
 
