@@ -51,26 +51,10 @@
 
 <div align="center">
   <h4>Game 1: Guess My Favorite Number</h4>
-  <p>Can you guess my favorite number between 1 and 10?</p>
   
-  <table align="center">
-    <tr>
-      <td><a href="#1">1️⃣</a></td>
-      <td><a href="#2">2️⃣</a></td>
-      <td><a href="#3">3️⃣</a></td>
-      <td><a href="#4">4️⃣</a></td>
-      <td><a href="#5">5️⃣</a></td>
-    </tr>
-    <tr>
-      <td><a href="#6">6️⃣</a></td>
-      <td><a href="#7">7️⃣</a></td>
-      <td><a href="#8">8️⃣</a></td>
-      <td><a href="#9">9️⃣</a></td>
-      <td><a href="#10">🔟</a></td>
-    </tr>
-  </table>
-
-  <p>Click on a number to guess!</p>
+  | [1️⃣](#1) | [2️⃣](#2) | [3️⃣](#3) | [4️⃣](#4) | [5️⃣](#5) |
+  |:---:|:---:|:---:|:---:|:---:|
+  | [6️⃣](#6) | [7️⃣](#7) | [8️⃣](#8) | [9️⃣](#9) | [🔟](#10) |
   
   <details>
     <summary>🎯 Hint</summary>
@@ -83,21 +67,11 @@
   </details>
 
   <h4>Game 2: Rock, Paper, Scissors</h4>
-  <p>Choose your move to play against me!</p>
   
-  <table align="center">
-    <tr>
-      <td><a href="#rock">🪨</a></td>
-      <td><a href="#paper">📄</a></td>
-      <td><a href="#scissors">✂️</a></td>
-    </tr>
-    <tr>
-      <td>Rock</td>
-      <td>Paper</td>
-      <td>Scissors</td>
-    </tr>
-  </table>
-
+  | [🪨](#rock) | [📄](#paper) | [✂️](#scissors) |
+  |:---:|:---:|:---:|
+  | Rock | Paper | Scissors |
+  
   <details>
     <summary>🎮 My Move</summary>
     <p>I always choose Rock! 🪨</p>
@@ -115,6 +89,35 @@
       <li>Rock: It's a tie! 🤝</li>
       <li>Paper: You win! 🎉</li>
       <li>Scissors: I win! 😎</li>
+    </ul>
+  </details>
+
+  <h4>Game 3: Would You Rather?</h4>
+  
+  <details>
+    <summary>🎲 Question 1</summary>
+    <p>Would you rather...</p>
+    <ul>
+      <li>Have the ability to fly 🦅</li>
+      <li>Have the ability to breathe underwater 🐠</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>🎲 Question 2</summary>
+    <p>Would you rather...</p>
+    <ul>
+      <li>Always have to sing instead of speak 🎤</li>
+      <li>Always have to dance instead of walk 💃</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>🎲 Question 3</summary>
+    <p>Would you rather...</p>
+    <ul>
+      <li>Have unlimited pizza for life 🍕</li>
+      <li>Have unlimited ice cream for life 🍦</li>
     </ul>
   </details>
 </div>
