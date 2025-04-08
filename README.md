@@ -80,51 +80,6 @@
 
   <h3 align="center">🎮 My Games</h3>
 
-  # Space Adventure 🚀
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/adithyansk-2002/space-adventure/main/gameplay.gif" alt="Space Adventure Gameplay" width="600"/>
-  
-  <h3>🎮 Play Space Adventure!</h3>
-  <p>A fun 2D platformer with power-ups and enemies</p>
-  
-  <div>
-    <img src="https://img.shields.io/badge/Controls-Left/Right%20Arrow-blue" alt="Controls"/>
-    <img src="https://img.shields.io/badge/Jump-Space-green" alt="Jump"/>
-    <img src="https://img.shields.io/badge/Powerups-3-yellow" alt="Powerups"/>
-  </div>
-</div>
-
-## 🎯 Game Features
-- Smooth platforming mechanics
-- Multiple power-ups:
-  - Double Jump: Jump twice in mid-air
-  - Shield: Temporary protection from enemies
-  - Speed Boost: Move faster
-- Score tracking and lives system
-- Randomly generated platforms and obstacles
-- Beautiful space background with parallax stars
-- Enemy AI and power-up collection
-
-## 🕹️ Controls
-- Left Arrow: Move left
-- Right Arrow: Move right
-- Space: Jump (double jump when power-up is active)
-
-## 🏆 Scoring
-- Collect stars: +10 points
-- Collect power-ups: +50 points
-- Complete levels: +100 points
-
-## 🔧 Technologies Used
-- HTML5 Canvas
-- JavaScript
-- CSS3
-
-## 📝 License
-This project is licensed under the MIT License.
-
-  ###
 
   ## 🎮 Play My Game
   [Space Jumper](https://adithyansk-2002.github.io/space-jumper-web/) - A fun platformer game I created!
