@@ -52,7 +52,6 @@
   <div align="center">
     <h4>Overall Stats</h4>
     <img src="https://github-readme-stats.vercel.app/api?username=adithyansk-2002&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithyansk-2002&theme=radical" alt="GitHub Streak"/>
   </div>
 
   <br>
