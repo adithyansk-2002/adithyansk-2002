@@ -32,7 +32,7 @@ Building scalable infrastructure, automating deployments, and creating software 
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable infrastructure, automating workflows, and continuously learning modern cloud technologies.
 
@@ -45,7 +45,7 @@ I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable 
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -67,9 +67,9 @@ I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable 
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🎮 Space Jumper
+## Space Jumper
 
 A polished PC platformer game featuring smooth movement, dash mechanics, particle effects, boss battles and multiple levels.
 
@@ -79,7 +79,7 @@ A polished PC platformer game featuring smooth movement, dash mechanics, particl
 
 ---
 
-## 🌐 Personal Portfolio
+## Personal Portfolio
 
 A responsive portfolio website showcasing my projects, certifications and technical journey.
 
@@ -89,7 +89,7 @@ A responsive portfolio website showcasing my projects, certifications and techni
 
 ---
 
-## ☁️ Linux & DevOps Labs
+## Linux & DevOps Labs
 
 Hands-on projects involving
 
@@ -103,7 +103,7 @@ Hands-on projects involving
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Hands-on projects involving
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 - ☁️ Amazon Web Services (AWS)
 - 🐳 Docker
@@ -130,7 +130,7 @@ Hands-on projects involving
 
 ---
 
-# 🏆 Goals
+# Goals
 
 - ✅ Become a Cloud & DevOps Engineer
 - 📚 Earn AWS Certifications
@@ -140,7 +140,7 @@ Hands-on projects involving
 
 ---
 
-# 📈 GitHub Contribution Graph
+# GitHub Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyansk-2002&theme=github-dark&hide_border=true"/>
