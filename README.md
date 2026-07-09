@@ -50,7 +50,7 @@ I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,mysql,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,bash,mysql,html,css,js"/>
 </p>
 
 ### Cloud & DevOps
@@ -62,7 +62,7 @@ I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,cursor"/>
 </p>
 
 ---
