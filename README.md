@@ -136,8 +136,6 @@ Hands-on projects involving
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyansk-2002&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
 <div align="center">
 
 ### ⭐ Thanks for stopping by!
