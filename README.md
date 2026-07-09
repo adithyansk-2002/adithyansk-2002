@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Adithyan Suresh Kumar
 
-### ☁️ Cloud & DevOps Enthusiast • Linux Lover • Backend Developer
+### ☁️ Cloud & DevOps Enthusiast • Linux Enthusiast • Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Linux+Administrator;AWS+Learner;Backend+Developer;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=3BA3FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Linux+Administrator;AWS+Learner;Python+Developer;Always+Building+Something+New" />
 
 <br>
 
@@ -24,24 +24,24 @@ Building scalable infrastructure, automating deployments, and creating software 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/_.adithyan.sk._/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/adithyansk-2002">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm an aspiring **Cloud & DevOps Engineer** passionate about building reliable infrastructure, automating workflows, and solving real-world problems through technology.
+I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable infrastructure, automating workflows, and continuously learning modern cloud technologies.
 
-- ☁️ Learning **AWS, Docker, Kubernetes & Terraform**
-- 🐧 Linux enthusiast
-- ⚙️ Exploring DevOps & CI/CD
-- 💻 Strong interest in Backend Development
-- 🎮 Built a browser game called **Space Jumper**
-- 📸 Photography is my creative escape
+- ☁️ Currently learning **AWS, Docker, Kubernetes & Terraform**
+- 🐧 Enjoy working with Linux systems and shell scripting
+- ⚙️ Interested in CI/CD, automation and cloud infrastructure
+- 💻 Building backend applications and DevOps projects
+- 🎮 Creator of **Space Jumper**, a browser-based platformer
+- 📸 Photography enthusiast who enjoys capturing landscapes
 
 ---
 
@@ -75,7 +75,7 @@ A polished PC platformer game featuring smooth movement, dash mechanics, particl
 
 🔗 **Live Demo**
 
-https://adithyansk-2002.github.io/space-jumper-web/
+**[Play Space Jumper](https://adithyansk-2002.github.io/space-jumper-web/)**
 
 ---
 
@@ -85,7 +85,7 @@ A responsive portfolio website showcasing my projects, certifications and techni
 
 🔗 **Website**
 
-https://personal-portfolio-neon-ten-99.vercel.app/
+**[Visit Portfolio](https://personal-portfolio-neon-ten-99.vercel.app/)**
 
 ---
 
@@ -148,30 +148,14 @@ Hands-on projects involving
 
 ---
 
-# 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/adithyan-suresh-kumar-319723287/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://personal-portfolio-neon-ten-99.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/adithyansk-2002">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for stopping by!
 
-*"Code • Automate • Deploy • Repeat"* 🚀
+If you enjoyed my work, feel free to ⭐ a repository or connect with me on LinkedIn.
+
+Happy Coding! 🚀
 
 </div>
