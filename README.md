@@ -62,7 +62,7 @@ I'm an aspiring **Cloud & DevOps Engineer** passionate about designing reliable 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,cursor"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,figma"/>
 </p>
 
 ---
