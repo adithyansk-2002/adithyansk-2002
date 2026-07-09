@@ -130,23 +130,11 @@ Hands-on projects involving
 
 ---
 
-# Goals
-
-- ✅ Become a Cloud & DevOps Engineer
-- 📚 Earn AWS Certifications
-- 🌍 Contribute to Open Source
-- 🚀 Build Production-grade DevOps Projects
-- ☁️ Master Kubernetes
-
----
-
 # GitHub Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyansk-2002&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 ---
 
