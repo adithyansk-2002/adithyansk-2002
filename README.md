@@ -85,7 +85,7 @@ A responsive portfolio website showcasing my projects, certifications and techni
 
 🔗 **Website**
 
-**[Visit Portfolio](https://personal-portfolio-neon-ten-99.vercel.app/)**
+**[Visit Portfolio](https://adithyan-dev.vercel.app/)**
 
 ---
 
